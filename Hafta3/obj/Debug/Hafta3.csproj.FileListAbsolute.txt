@@ -1,0 +1,10 @@
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\bin\Debug\Hafta3.exe.config
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\bin\Debug\Hafta3.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\bin\Debug\Hafta3.pdb
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\obj\Debug\Hafta3.csproj.AssemblyReference.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\obj\Debug\Hafta3.Properties.Resources.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\obj\Debug\Hafta3.csproj.GenerateResource.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\obj\Debug\Hafta3.csproj.CoreCompileInputs.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\obj\Debug\Hafta3.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\obj\Debug\Hafta3.pdb
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta3\obj\Debug\Hafta3.Form1.resources
