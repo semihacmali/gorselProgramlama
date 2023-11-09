@@ -1,0 +1,10 @@
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\bin\Debug\Hafta-5.exe.config
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\bin\Debug\Hafta-5.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\bin\Debug\Hafta-5.pdb
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\obj\Debug\Hafta-5.csproj.AssemblyReference.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\obj\Debug\Hafta_5.Form1.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\obj\Debug\Hafta_5.Properties.Resources.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\obj\Debug\Hafta-5.csproj.GenerateResource.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\obj\Debug\Hafta-5.csproj.CoreCompileInputs.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\obj\Debug\Hafta-5.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta-5\obj\Debug\Hafta-5.pdb
