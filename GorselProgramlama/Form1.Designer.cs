@@ -36,6 +36,7 @@ namespace GorselProgramlama
 			// label1
 			// 
 			this.label1.AutoSize = true;
+			this.label1.BackColor = System.Drawing.Color.Linen;
 			this.label1.Location = new System.Drawing.Point(225, 112);
 			this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
 			this.label1.Name = "label1";
