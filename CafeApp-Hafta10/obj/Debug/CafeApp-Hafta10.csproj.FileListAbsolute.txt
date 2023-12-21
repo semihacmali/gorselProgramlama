@@ -1,0 +1,11 @@
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\bin\Debug\CafeApp-Hafta10.exe.config
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\bin\Debug\CafeApp-Hafta10.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\bin\Debug\CafeApp-Hafta10.pdb
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\obj\Debug\CafeApp-Hafta10.csproj.AssemblyReference.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\obj\Debug\CafeApp_Hafta10.Form1.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\obj\Debug\CafeApp_Hafta10.Properties.Resources.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\obj\Debug\CafeApp_Hafta10.Resource1.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\obj\Debug\CafeApp-Hafta10.csproj.GenerateResource.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\obj\Debug\CafeApp-Hafta10.csproj.CoreCompileInputs.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\obj\Debug\CafeApp-Hafta10.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\CafeApp-Hafta10\obj\Debug\CafeApp-Hafta10.pdb
