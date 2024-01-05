@@ -1,0 +1,11 @@
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\bin\Debug\Hafta12-FormGecis.exe.config
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\bin\Debug\Hafta12-FormGecis.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\bin\Debug\Hafta12-FormGecis.pdb
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\obj\Debug\Hafta12-FormGecis.csproj.AssemblyReference.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\obj\Debug\Hafta12_FormGecis.Form1.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\obj\Debug\Hafta12_FormGecis.Form2.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\obj\Debug\Hafta12_FormGecis.Properties.Resources.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\obj\Debug\Hafta12-FormGecis.csproj.GenerateResource.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\obj\Debug\Hafta12-FormGecis.csproj.CoreCompileInputs.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\obj\Debug\Hafta12-FormGecis.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Hafta12-FormGecis\obj\Debug\Hafta12-FormGecis.pdb

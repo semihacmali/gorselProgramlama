@@ -1,0 +1,10 @@
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\bin\Debug\Diziler-Hafta11.exe.config
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\bin\Debug\Diziler-Hafta11.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\bin\Debug\Diziler-Hafta11.pdb
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\obj\Debug\Diziler-Hafta11.csproj.AssemblyReference.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\obj\Debug\Diziler_Hafta11.Form1.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\obj\Debug\Diziler_Hafta11.Properties.Resources.resources
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\obj\Debug\Diziler-Hafta11.csproj.GenerateResource.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\obj\Debug\Diziler-Hafta11.csproj.CoreCompileInputs.cache
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\obj\Debug\Diziler-Hafta11.exe
+C:\Users\Lab 308\Downloads\gorselProgramlama-main\gorselProgramlama-main\Diziler-Hafta11\obj\Debug\Diziler-Hafta11.pdb
