@@ -1,0 +1,10 @@
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\bin\Debug\GorselProgramlama2024.exe.config
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\bin\Debug\GorselProgramlama2024.exe
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\bin\Debug\GorselProgramlama2024.pdb
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\obj\Debug\GorselProgramlama2024.csproj.AssemblyReference.cache
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\obj\Debug\GorselProgramlama2024.Form1.resources
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\obj\Debug\GorselProgramlama2024.Properties.Resources.resources
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\obj\Debug\GorselProgramlama2024.csproj.GenerateResource.cache
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\obj\Debug\GorselProgramlama2024.csproj.CoreCompileInputs.cache
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\obj\Debug\GorselProgramlama2024.exe
+C:\Users\Lab 308\source\repos\GorselProgramlama2024\obj\Debug\GorselProgramlama2024.pdb

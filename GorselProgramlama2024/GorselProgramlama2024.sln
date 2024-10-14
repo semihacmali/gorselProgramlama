@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorselProgramlama2024", "GorselProgramlama2024.csproj", "{C1C9B29A-449E-40D7-A88F-96CB8BAE31D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta4", "..\Hafta4\Hafta4.csproj", "{CFA7CD92-6CB1-4262-85C0-218236C68DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta5", "..\Hafta5\Hafta5.csproj", "{94FC0C79-5AB2-442C-97C9-6605B7D7C4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C9B29A-449E-40D7-A88F-96CB8BAE31D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C9B29A-449E-40D7-A88F-96CB8BAE31D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C9B29A-449E-40D7-A88F-96CB8BAE31D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C9B29A-449E-40D7-A88F-96CB8BAE31D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA7CD92-6CB1-4262-85C0-218236C68DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA7CD92-6CB1-4262-85C0-218236C68DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA7CD92-6CB1-4262-85C0-218236C68DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA7CD92-6CB1-4262-85C0-218236C68DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FC0C79-5AB2-442C-97C9-6605B7D7C4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FC0C79-5AB2-442C-97C9-6605B7D7C4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FC0C79-5AB2-442C-97C9-6605B7D7C4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FC0C79-5AB2-442C-97C9-6605B7D7C4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5584DEF2-015E-4984-B2D1-B32C5A78B541}
+	EndGlobalSection
+EndGlobal

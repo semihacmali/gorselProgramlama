@@ -1,0 +1,9 @@
+C:\Users\Lab 308\source\repos\Hafta5\bin\Release\Hafta5.exe.config
+C:\Users\Lab 308\source\repos\Hafta5\bin\Release\Hafta5.exe
+C:\Users\Lab 308\source\repos\Hafta5\bin\Release\Hafta5.pdb
+C:\Users\Lab 308\source\repos\Hafta5\obj\Release\Hafta5.Form1.resources
+C:\Users\Lab 308\source\repos\Hafta5\obj\Release\Hafta5.Properties.Resources.resources
+C:\Users\Lab 308\source\repos\Hafta5\obj\Release\Hafta5.csproj.GenerateResource.cache
+C:\Users\Lab 308\source\repos\Hafta5\obj\Release\Hafta5.csproj.CoreCompileInputs.cache
+C:\Users\Lab 308\source\repos\Hafta5\obj\Release\Hafta5.exe
+C:\Users\Lab 308\source\repos\Hafta5\obj\Release\Hafta5.pdb
