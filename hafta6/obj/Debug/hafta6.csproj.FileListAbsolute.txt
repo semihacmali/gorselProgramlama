@@ -1,0 +1,11 @@
+C:\Users\Lab 308\source\repos\hafta6\bin\Debug\hafta6.exe.config
+C:\Users\Lab 308\source\repos\hafta6\bin\Debug\hafta6.exe
+C:\Users\Lab 308\source\repos\hafta6\bin\Debug\hafta6.pdb
+C:\Users\Lab 308\source\repos\hafta6\obj\Debug\hafta6.csproj.AssemblyReference.cache
+C:\Users\Lab 308\source\repos\hafta6\obj\Debug\hafta6.Form1.resources
+C:\Users\Lab 308\source\repos\hafta6\obj\Debug\hafta6.Properties.Resources.resources
+C:\Users\Lab 308\source\repos\hafta6\obj\Debug\hafta6.csproj.GenerateResource.cache
+C:\Users\Lab 308\source\repos\hafta6\obj\Debug\hafta6.csproj.CoreCompileInputs.cache
+C:\Users\Lab 308\source\repos\hafta6\obj\Debug\hafta6.exe
+C:\Users\Lab 308\source\repos\hafta6\obj\Debug\hafta6.pdb
+C:\Users\Lab 308\source\repos\hafta6\obj\Debug\hafta6.Form2.resources
